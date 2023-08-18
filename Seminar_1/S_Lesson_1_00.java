@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class S_Lesson_1 {
+public class S_Lesson_1_00 {
      public static void main (){
         Scanner in = new Scanner (System.in);
         int countNum = 3;

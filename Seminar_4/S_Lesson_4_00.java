@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class S_Lesson_4 {
+public class S_Lesson_4_00 {
     public static void main(){
         LinkedList<String> textList = new LinkedList<>();
         Scanner textIn = new Scanner(System.in);
