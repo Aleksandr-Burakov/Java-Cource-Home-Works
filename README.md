@@ -7,3 +7,5 @@
 Семинар 2. S_Lesson_2_02. --> [Код](/Seminar_2/S_Lesson_2_02.java)
 
 Семинар 3. S_Lesson_3_01. --> [Код](/Seminar_3/S_Lesson_3_01.java)
+
+Семинар 3. S_Lesson_3_02. --> [Код](/Seminar_3/S_Lesson_3_02.java)
