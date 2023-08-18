@@ -32,7 +32,6 @@ public class S_Lesson_5_02 {
             Subscribers.add(new Subscriber(3, "Keyn Ostin Flaur",879684, "Brasil"));
             Phonebook.put(1,Phonebooks);
             YellowPages.put(1,Subscribers);
-
             for(Map.Entry<Integer,LinkedList<Subscriber>> item : YellowPages.entrySet()){
                 for(Subscriber itemSubscribers : item.getValue()){                  
                     System.out.printf(" \n << ID Key: %s. Name: %s, Phone: %s, Country: %s. >>\n  ", 
@@ -45,6 +44,4 @@ public class S_Lesson_5_02 {
     }   
 }
 
-    //     }
-    // }
 
