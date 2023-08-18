@@ -11,3 +11,5 @@
 Семинар 3. S_Lesson_3_02. --> [Код](/Seminar_3/S_Lesson_3_02.java)
 
 Семинар 3. S_Lesson_3_03. --> [Код](/Seminar_3/S_Lesson_3_03.java)
+
+Семинар 4. S_Lesson_4. --> [Код](/Seminar_4/S_Lesson_4.java)
