@@ -14,25 +14,20 @@ class Calculator {
                     default:
                         throw new IllegalArgumentException("Некорректный оператор: " + op);
                 }
-            }
-        
+            }       
             private int divide(int a, int b) {
                 if (b != 0) return a / b;
                 return -1;
-            }
-        
+            }  
             private int mult(int a, int b) {
                 return a * b;
             }
-        
             private int minus(int a, int b) {
                 return a - b;
             }
-        
             private int add(int a, int b) {
                 return a + b;
             }
-        
         public class S_Lesson_3_03 {
     public static void main(){
                 
