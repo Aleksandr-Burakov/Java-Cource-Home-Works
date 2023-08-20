@@ -43,8 +43,8 @@ import java.util.*;
             NewHorisons.put(1,Subscribers2);
 
             Subscribers.add(new Subscriber(1, "Ivanov Ivan Ivanovich"));
-            Subscribers.add(new Subscriber(3, "Ezaf Fit Bridg"));
-            Subscribers.add(new Subscriber(2, "Keyn Ostin Flaur"));
+            Subscribers.add(new Subscriber(2, "Ezaf Fit Bridg"));
+            Subscribers.add(new Subscriber(3, "Keyn Ostin Flaur"));
 
             for(Map.Entry<Integer,LinkedList<Subscriber>> item : YellowPages.entrySet()){
                 for(Subscriber itemSubscribers : item.getValue()){               
@@ -54,9 +54,9 @@ import java.util.*;
                 }
             }
 
-            Subscribers2.add(new Subscriber2(1, "Ivanov Ivan Ivanovich"));
-            Subscribers2.add(new Subscriber2(3, "Ezaf Fit Bridg"));
-            Subscribers2.add(new Subscriber2(2, "Keyn Ostin Flaur"));
+            Subscribers2.add(new Subscriber2(4, "Rais Ivan Ivanovich"));
+            Subscribers2.add(new Subscriber2(5, "Erik Fitov Brid"));
+            Subscribers2.add(new Subscriber2(6, "Key Atin Floy"));
         
             for(Map.Entry<Integer,LinkedList<Subscriber2>> item2 : NewHorisons.entrySet()){
                 for(Subscriber2 itemSubscribers2 : item2.getValue()){               
