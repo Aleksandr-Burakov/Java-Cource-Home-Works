@@ -21,3 +21,5 @@
 Семинар 6. --> S_Lesson_6_00. --> [Код](/Seminar_6/S_Lesson_6_00.java)
 
 Семинар 6. --> S_Lesson_6_01. --> [Код](/Seminar_6/S_Lesson_6_01.java)
+
+Семинар 6. --> S_Lesson_6_02. --> [Код](/Seminar_6/S_Lessons_6_02.java)
